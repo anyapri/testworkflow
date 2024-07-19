@@ -3,4 +3,4 @@ def test_a1():
     assert 5==5
 
 def test_a2():
-    assert 2==2
+    assert 1==1
